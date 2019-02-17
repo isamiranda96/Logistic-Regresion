@@ -1,2 +1,2 @@
-# Regresión Logística
+# Logistic Regresion
 Logistic regresion for beginners. Practice assessment.
